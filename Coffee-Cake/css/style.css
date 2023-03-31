@@ -1,0 +1,15 @@
+@font-face {
+	font-family: "Montserrat";
+	src: url(../fonts/montserrat/Montserrat-BoldItalic.otf) format("otf");
+}
+
+h1{
+	font-size: 100px;
+	font-family : "Montserrat";
+	font-weight : 100000000000;
+	font-style: italic;
+	text-transform: capitalize;
+	letter-spacing: 15px;
+	word-spacing: 16px;
+	
+}
